@@ -1,0 +1,4 @@
+model,total_proposed_stations,total_existing_stations_baseline,total_friction_points,total_ev_projected_2027
+M1_Cost_Efficient,99,12072,44,545072
+M2_Long_Distance,149,12072,72,545072
+M3_Grid_Constrained,105,12072,284,545072
